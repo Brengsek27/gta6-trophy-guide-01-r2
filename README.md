@@ -12,6 +12,8 @@ Use a shareable tracker URL with `?earned=2,5,9&open=9` to pre-mark trophy IDs a
 
 The earned ID list is applied on top of locally saved progress; toggles and filters remain local to the current browser session.
 
+The tracker includes progress counters for counted trophies, sorting, and per-stage roadmap completion.
+
 The `main.ts` hand-in program copies the app and screenshots to `MAKEFUN_OUTPUT_DIR` (or `/output`) and writes the competition dossier.
 
 ---
